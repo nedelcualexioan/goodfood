@@ -1,0 +1,16 @@
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\bin\Debug\net5.0\recipes.exe
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\bin\Debug\net5.0\recipes.deps.json
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\bin\Debug\net5.0\recipes.runtimeconfig.json
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\bin\Debug\net5.0\recipes.runtimeconfig.dev.json
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\bin\Debug\net5.0\recipes.dll
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\bin\Debug\net5.0\ref\recipes.dll
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\bin\Debug\net5.0\recipes.pdb
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\obj\Debug\net5.0\recipes.csproj.AssemblyReference.cache
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\obj\Debug\net5.0\recipes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\obj\Debug\net5.0\recipes.AssemblyInfoInputs.cache
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\obj\Debug\net5.0\recipes.AssemblyInfo.cs
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\obj\Debug\net5.0\recipes.csproj.CoreCompileInputs.cache
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\obj\Debug\net5.0\recipes.dll
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\obj\Debug\net5.0\ref\recipes.dll
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\obj\Debug\net5.0\recipes.pdb
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\obj\Debug\net5.0\recipes.genruntimeconfig.cache
