@@ -1,0 +1,7 @@
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\obj\Debug\recipes.csproj.AssemblyReference.cache
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\obj\Debug\recipes.csproj.CoreCompileInputs.cache
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\bin\Debug\recipes.exe.config
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\bin\Debug\recipes.exe
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\bin\Debug\recipes.pdb
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\obj\Debug\recipes.exe
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\recipes\obj\Debug\recipes.pdb

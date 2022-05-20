@@ -1,0 +1,16 @@
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\obj\Debug\goodfood.csproj.AssemblyReference.cache
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\obj\Debug\goodfood.MockupCard.resources
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\obj\Debug\goodfood.Properties.Resources.resources
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\obj\Debug\goodfood.csproj.GenerateResource.cache
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\obj\Debug\goodfood.csproj.CoreCompileInputs.cache
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\bin\Debug\goodfood.exe.config
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\bin\Debug\goodfood.exe
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\bin\Debug\goodfood.pdb
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\bin\Debug\recipes.exe
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\bin\Debug\recipes.pdb
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\bin\Debug\recipes.exe.config
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\obj\Debug\goodfood.csproj.CopyComplete
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\obj\Debug\goodfood.exe
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\obj\Debug\goodfood.pdb
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\obj\Debug\goodfood.FrmHome.resources
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\obj\Debug\goodfood.MockupFilters.resources
