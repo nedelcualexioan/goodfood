@@ -17,6 +17,9 @@ namespace goodfood
 
         private ControllerRecipes recipes;
         private ControllerUsers users;
+
+        private Panel pnlHeader;
+        private Panel pnlHome;
         public FrmHome()
         {
             InitializeComponent();
@@ -24,14 +27,17 @@ namespace goodfood
             this.Size = Screen.PrimaryScreen.WorkingArea.Size;
             this.WindowState = FormWindowState.Maximized;
 
+            recipes = new ControllerRecipes();
+            users = new ControllerUsers();
+
             foreach (Control c in this.Controls)
             {
                 c.Hide();
             }
-            
 
-            recipes = new ControllerRecipes();
-            users = new ControllerUsers();
+            pnlHeader = new Header(this);
+            pnlHome = new ViewHome(this, recipes);
+
         }
 
         private void FrmHome_Load(object sender, EventArgs e)

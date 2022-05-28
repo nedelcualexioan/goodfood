@@ -14,3 +14,4 @@ C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\obj\Debug\goodfo
 C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\obj\Debug\goodfood.pdb
 C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\obj\Debug\goodfood.FrmHome.resources
 C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\obj\Debug\goodfood.MockupFilters.resources
+C:\Users\anndr\Documents\C#\OOP\Abstractizarea\recipes\goodfood\obj\Debug\goodfood.MockupHome.resources
